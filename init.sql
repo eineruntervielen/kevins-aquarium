@@ -1,0 +1,10 @@
+CREATE TABLE RECORDS
+(
+    'DATETIME'         date,
+    '2848E476E0013CB0' float,
+    '280C6476E0013CD2' float,
+    '286C3C76E0013CBA' float,
+    '28320276E0013CA1' float,
+    '2807EF76E0013C91' float,
+    '28CFFB76E0013CCC' float
+)
